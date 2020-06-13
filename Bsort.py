@@ -7,4 +7,4 @@ for i in range(n):
         if seconds[j] > seconds[j+1]:
             seconds[j], seconds[j+1] = seconds[j+1], seconds[j]
 
-print("her best time is", seconds[0],"seconds")            
+print("best time of the work is", seconds[0],"seconds")            
