@@ -1,2 +1,2 @@
 # 30-days-of-code
-i have accepted a 30-days-coding challenge for self improvement. 
+This repo is for my self improvement in learning........
